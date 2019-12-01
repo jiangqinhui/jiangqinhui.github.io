@@ -1,0 +1,28 @@
+# 首页配置
+Projects:
+  brief: 我参与的一些项目
+  posts:
+    -
+      title: 嘿呗APP2.0 
+      subtitle: 架构升级和视觉优化
+      link: /2019/11/25/hello-world/
+      pic: /images/logo.png
+Design:
+  brief: 无聊的设计
+  posts:
+    -
+      title: 嘿呗APP2.0 ReDesign
+      subtitle: 架构升级和视觉优化
+      link: /2019/11/25/hello-world/
+      pic: /images/logo.png
+    -
+      title: 今天穿什么
+      subtitle: 工具类APP概念稿
+      link: /2019/11/25/hello-world/
+      pic: /images/logo.png
+    -
+      title: Icon设计
+      subtitle: 婚礼类图标
+      link: /2019/11/25/hello-world/
+      pic: /images/logo.png
+
